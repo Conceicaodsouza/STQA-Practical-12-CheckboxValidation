@@ -1,0 +1,1 @@
+# STQA-Practical-12-CheckboxValidation
